@@ -23,7 +23,7 @@ if(isset($_POST['Submit'])){
 <html>
 <head>
 <meta charset="utf-8">
-<title>PHP Captcha.</title>
+<title>PHP Captcha</title>
 <link href="./css/style.css" rel="stylesheet">
 <style type="text/stylesheet">
 .timer {
